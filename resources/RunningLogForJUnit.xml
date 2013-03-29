@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<runningLog>
+	<Running>
+	    <Sneaker name="T2">
+            <Distance date="2012-11-1">1</Distance>
+            <Distance date="2012-11-2">2</Distance>
+            <Distance date="2012-11-3">3</Distance>
+            <Distance date="2012-11-4">4</Distance>
+        </Sneaker>
+        <Sneaker name="Green">
+            <Distance date="2012-11-1">1</Distance>
+            <Distance date="2012-11-2">2</Distance>
+            <Distance date="2012-11-3">3</Distance>
+            <Distance date="2012-11-4">4</Distance>
+        </Sneaker>
+		
+	</Running>
+</runningLog>
