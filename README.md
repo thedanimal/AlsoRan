@@ -5,6 +5,5 @@ The goal is to make this program become an Android app that is focused on runnin
 It might do a whole lot more. It might do only one thing but do it well.
 
 ==========
-[![githalytics.com
-alpha](https://cruel-carlota.pagodabox.com/fd3604c6a8ea6065e4a78c209206db0e
-"githalytics.com")](http://githalytics.com/thedanimal/AlsoRan)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/d33c119b156a89a989ec09fc3905761c "githalytics.com")](http://githalytics.com/thedanimal/AlsoRan)
+
