@@ -1,0 +1,16 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.garmin.com/xmlschemas/ActivityExtension/v2" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="TPX">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:float" name="Speed"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LX">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:float" name="AvgSpeed"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
