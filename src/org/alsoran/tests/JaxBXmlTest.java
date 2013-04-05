@@ -1,4 +1,4 @@
-package org.alsoran.parseconfig.xml.test;
+package org.alsoran.tests;
 
 import java.io.FileNotFoundException;
 
